@@ -1,0 +1,10 @@
+# Group 1
+User-agent: Googlebot
+Disallow: /nogooglebot/
+
+# Group 2
+User-agent: *
+Allow: /
+Disallow: /panel/
+
+Sitemap: https://www.indesid.com/sitemap.xml
